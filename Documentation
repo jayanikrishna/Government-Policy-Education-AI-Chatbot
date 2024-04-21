@@ -9,11 +9,11 @@ The Government Policy Education AI Chatbot is designed to educate and empower th
 ## Installation
 To install the chatbot, follow these steps:
 1. Clone the repository from GitHub: `https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot.git`
-2. Install dependencies: `npm install`
+2. Install dependencies
 3. Configure the chatbot settings as needed.
-4. Start the chatbot server: `npm start`
+4. Start the chatbot server
 
-For detailed installation instructions, refer to the [installation guide](installation.md).
+For detailed installation instructions, refer to the [installation guide](https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot/blob/ee118ac1b9699e472903cc8f16d5368a823cb88a/Installation%20Guide).
 
 ## Configuration
 The chatbot can be configured to suit specific requirements, including:
