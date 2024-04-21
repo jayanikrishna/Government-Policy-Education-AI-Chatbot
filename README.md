@@ -20,18 +20,12 @@ Government policies play a crucial role in shaping societies and economies, yet 
   
 - **Integration**: Integrates with external data sources to ensure up-to-date and accurate information about government policies.
 
+- **Accessing**: Accessing this chartbot is made flexible if integrated with meta business suite to access it from variable applications such as Whatsapp and Telegram  .
+
 
 ## Installation and Usage
 
-To use the chatbot, simply follow the installation instructions provided in the [documentation](docs/README.md). Once installed, you can interact with the chatbot through the user-friendly interface and start learning about various government policies.
-
-## Contributing
-
-We welcome contributions from the community to improve and enhance the chatbot's functionality. If you would like to contribute, please read our [contribution guidelines](CONTRIBUTING.md) and submit a pull request with your proposed changes.
-
-## Feedback
-
-Your feedback is valuable to us! If you have any suggestions, feature requests, or encounter any issues while using the chatbot, please don't hesitate to [open an issue](../../issues) on GitHub.
+To use the chatbot, simply follow the installation instructions provided in the [documentation](https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot/blob/main/Documentation) . Once installed, you can interact with the chatbot through the user-friendly interface and start learning about various government policies.
 
 ---
 
