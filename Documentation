@@ -1,0 +1,32 @@
+
+# Government Policy Education AI Chatbot Documentation
+
+## Introduction
+Welcome to the documentation for the Government Policy Education AI Chatbot! This document provides detailed information on installing, configuring, and using the chatbot, as well as guidelines for contributing and providing feedback.
+
+The Government Policy Education AI Chatbot is designed to educate and empower the public about various government policies, particularly focusing on financial policies. Leveraging natural language processing (NLP) techniques, the chatbot explains complex policy details in simple terms, answers frequently asked questions, and provides personalized information based on user queries.
+
+## Installation
+To install the chatbot, follow these steps:
+1. Clone the repository from GitHub: `https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot.git`
+2. Install dependencies: `npm install`
+3. Configure the chatbot settings as needed.
+4. Start the chatbot server: `npm start`
+
+For detailed installation instructions, refer to the [installation guide](installation.md).
+
+## Configuration
+The chatbot can be configured to suit specific requirements, including:
+- Integration with external data sources for up-to-date policy information.
+- Customization of user interface elements and messaging.
+- Adjustment of NLP models and algorithms for improved understanding and accuracy.
+
+For configuration options and settings, refer to the [configuration guide](configuration.md).
+
+## Usage
+Interacting with the chatbot is straightforward. Simply open the chat interface and start typing your questions about government policies. The chatbot will provide informative and relevant responses in real-time.
+
+For usage instructions and examples, refer to the [usage guide](usage.md).
+
+---
+Thank you for using the Government Policy Education AI Chatbot. We hope this tool helps increase public awareness and understanding of government policies, ultimately fostering informed decision-making and civic engagement.
