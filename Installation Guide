@@ -1,0 +1,43 @@
+# Government Policy Education AI Chatbot Installation Guide
+
+Welcome to the installation guide for the Government Policy Education AI Chatbot! This guide will walk you through the steps required to install and set up the chatbot on your system.
+
+## Prerequisites
+Before installing the chatbot, ensure that you have the following prerequisites installed on your system:
+- botpress.cloud 
+- Git (for cloning the repository)
+- Internet connection for downloading dependencies
+
+## Installation Steps
+Follow these steps to install the Government Policy Education AI Chatbot:
+
+1. **Clone the Repository**: Open your terminal or command prompt and navigate to the directory where you want to install the chatbot. Then, clone the repository using the following command:
+   ```
+   https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot.git
+   ```
+
+2. **Navigate to the Directory**: Change into the directory of the cloned repository:
+   ```
+   https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot/new/main
+   ```
+ 
+3. **Configure the Chatbot**: Depending on your specific requirements, you may need to configure the chatbot settings. Refer to the configuration guide for instructions on configuring the chatbot.
+
+4. **Start the Chatbot Server**: Once the dependencies are installed and the chatbot is configured, you can start the chatbot server:
+   ```
+   https://github.com/jayanikrishna/Government-Policy-Education-AI-Chatbot/blob/6053fe5404b5aa5317cc8ce4d961f2552016d2e8/Documentation
+   ```
+
+5. **Access the Chatbot**: Open your web browser and navigate to the URL where the chatbot server is running (usually `http://localhost:3000` by default). You should now be able to interact with the chatbot through the user interface
+
+||Available under Installation Guide||
+
+## Configuration (Optional)
+If you need to customize the chatbot settings, such as integrating with external data sources or adjusting NLP models, refer to the configuration guide for detailed instructions.
+
+
+## Conclusion
+Congratulations! You have successfully installed the Government Policy Education AI Chatbot on your system. You can now start using the chatbot to learn about various government policies and empower yourself with knowledge.
+
+---
+Thank you for choosing the Government Policy Education AI Chatbot. If you have any questions or need further assistance, please don't hesitate to reach out to us. We're here to help!
