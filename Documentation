@@ -21,12 +21,9 @@ The chatbot can be configured to suit specific requirements, including:
 - Customization of user interface elements and messaging.
 - Adjustment of NLP models and algorithms for improved understanding and accuracy.
 
-For configuration options and settings, refer to the [configuration guide](configuration.md).
-
 ## Usage
 Interacting with the chatbot is straightforward. Simply open the chat interface and start typing your questions about government policies. The chatbot will provide informative and relevant responses in real-time.
 
-For usage instructions and examples, refer to the [usage guide](usage.md).
 
 ---
 Thank you for using the Government Policy Education AI Chatbot. We hope this tool helps increase public awareness and understanding of government policies, ultimately fostering informed decision-making and civic engagement.
