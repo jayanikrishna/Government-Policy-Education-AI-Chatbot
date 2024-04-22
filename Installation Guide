@@ -30,7 +30,7 @@ Follow these steps to install the Government Policy Education AI Chatbot:
 
 5. **Access the Chatbot**: Open your web browser and navigate to the URL where the chatbot server is running (usually `http://localhost:3000` by default). You should now be able to interact with the chatbot through the user interface
 
-https://mediafiles.botpress.cloud/c405057a-8e79-4e76-ab87-08e1717dce09/webchat/bot.html
+https:https://mediafiles.botpress.cloud/c405057a-8e79-4e76-ab87-08e1717dce09/webchat/bot.html
 ||Available under Installation Guide||
 
 ## Configuration (Optional)
